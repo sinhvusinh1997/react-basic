@@ -16,3 +16,14 @@
 1. Why React?
 2. Class and Redux
 3.
+
+### File structure (recommend):
+
+1. assets: chứa những thư mục, file mà sau này muốn public.
+2. components: share những components ở nhiều nơi, tái sử dụng.
+3. routes: định nghĩa router
+4. styles:
+5. store: viết redux
+6. utils: function dùng chung
+7. views: pages, hiểu thị
+8. services: gọi API, làm việc vs BE
